@@ -1,0 +1,15 @@
+D:\Заочка\Курсачи\Machine Turing\bin\Debug\Machine Turing.exe
+D:\Заочка\Курсачи\Machine Turing\bin\Debug\Machine Turing.pdb
+D:\Заочка\Курсачи\Machine Turing\bin\Debug\ru\Machine Turing.resources.dll
+D:\Заочка\Курсачи\Machine Turing\bin\Debug\sq\Machine Turing.resources.dll
+D:\Заочка\Курсачи\Machine Turing\obj\x86\Debug\Machine_Turing.FormAbout.resources
+D:\Заочка\Курсачи\Machine Turing\obj\x86\Debug\Machine_Turing.FormMain.resources
+D:\Заочка\Курсачи\Machine Turing\obj\x86\Debug\Machine_Turing.Properties.Resources.resources
+D:\Заочка\Курсачи\Machine Turing\obj\x86\Debug\Machine_Turing.FormMain.ru.resources
+D:\Заочка\Курсачи\Machine Turing\obj\x86\Debug\Machine_Turing.FormMain.sq.resources
+D:\Заочка\Курсачи\Machine Turing\obj\x86\Debug\Machine Turing.csproj.GenerateResource.Cache
+D:\Заочка\Курсачи\Machine Turing\obj\x86\Debug\ru\Machine Turing.resources.dll
+D:\Заочка\Курсачи\Machine Turing\obj\x86\Debug\sq\Machine Turing.resources.dll
+D:\Заочка\Курсачи\Machine Turing\obj\x86\Debug\Machine Turing.exe
+D:\Заочка\Курсачи\Machine Turing\obj\x86\Debug\Machine Turing.pdb
+D:\Заочка\Курсачи\Machine Turing\obj\x86\Debug\Machine Turing.csprojResolveAssemblyReference.cache
